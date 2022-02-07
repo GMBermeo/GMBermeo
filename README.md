@@ -34,11 +34,6 @@ When I am not working, I study audio design, play board games, and watch tv show
 <a href="https://open.spotify.com/artist/4cdJMNyV0fp9j3RjKosbFd"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
 <a href="https://twitter.com/GM_Bermeo"><img src="https://img.shields.io/badge/@GM__Bermeo-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCSsc5f356wsiB8OlNcya3zA"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-
-
-
-  
-  
 </p>
 
 
