@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://github.com/GMBermeo">
-<img width="61%" src="https://github-readme-stats.vercel.app/api?username=GMBermeo&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=0&bg_color=0d1117"/><img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GMBermeo&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=0&bg_color=0d1117"/></a>
+<img width="61%" src="https://github-readme-stats.vercel.app/api?username=GMBermeo&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GMBermeo&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/></a>
 </p>
 
 ## about.me
