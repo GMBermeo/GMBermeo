@@ -1,6 +1,7 @@
 <p align="left">
-  <a href="https://github.com/GMBermeo">
-<img width="61%" src="https://github-readme-stats.vercel.app/api?username=GMBermeo&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GMBermeo&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/></a>
+<a href="https://github.com/GMBermeo">
+<img width="61%" src="https://github-readme-stats.vercel.app/api?username=GMBermeo&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GMBermeo&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
+<img width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=gmbermeo&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/><img width="53%" src="https://activity-graph.herokuapp.com/graph?username=gmbermeo&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117" alt="GitHub Commits Graph" /></a>
 </p>
 
 ## about.me
@@ -8,6 +9,8 @@
 I am an experienced Digital Product Designer with several years of experience working with governmental clients to create and enhance the aesthetics and experience for digital products. Adept in designing, managing, and planning the production of projects, ranging from small to very large-scale. An easy learner with a natural ability to collaborate and lead as a dynamic and dedicated professional.
 When I am not working, I study audio design, play board games, and watch tv shows.
 </p>
+
+ 
 
 ## techs && skills
 <p align="justify"><a href="https://github.com/GMBermeo">
