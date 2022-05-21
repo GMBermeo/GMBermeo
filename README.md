@@ -14,31 +14,30 @@ When I am not working, I study audio design, play board games, and watch tv show
 
 ## techs && skills
 <p align="justify"><a href="https://github.com/GMBermeo">
-
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<!-- <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)"/>
-</p></a>
-
+<img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
+<img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
+<img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
+<img alt="Vue" src="https://img.shields.io/badge/vuejs-%230d1117.svg?style=for-the-badge&logo=vuedotjs"/>
+<img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss"/>
+<img alt="Bulma" src="https://img.shields.io/badge/bulma-%230d1117?style=for-the-badge&logo=bulma"/>
+<img alt="C#" src="https://img.shields.io/badge/C%23-%230d1117?style=for-the-badge&logo=c-sharp"/> 
+<img alt="Blazor" src="https://img.shields.io/badge/blazor-%230d1117.svg?style=for-the-badge&logo=blazor&logoColor=5b2d8f"/>
+<img alt="Unity" src="https://img.shields.io/badge/unity-%230d1117.svg?style=for-the-badge&logo=unity"/>
+<img alt="Vercel" src="https://img.shields.io/badge/vercel-%230d1117.svg?style=for-the-badge&logo=vercel"/>
+<img alt="Next" src="https://img.shields.io/badge/Next-%230d1117?style=for-the-badge&logo=next.js"/>
+</p>
+ 
 ## social && contact
 <p align="justify">
-<a href="https://www.linkedin.com/in/gmbermeo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/guilherme.bermeo"><img src="https://img.shields.io/badge/guilherme.bermeo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://t.me/guilhermebermeo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://open.spotify.com/artist/4cdJMNyV0fp9j3RjKosbFd"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
-<a href="https://twitter.com/GM_Bermeo"><img src="https://img.shields.io/badge/@GM__Bermeo-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCSsc5f356wsiB8OlNcya3zA"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gmbermeo"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
+<a href="https://www.instagram.com/guilherme.bermeo"><img src="https://img.shields.io/badge/guilherme.bermeo-%230d1117.svg?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/></a>
+<a href="https://t.me/guilhermebermeo"><img src="https://img.shields.io/badge/Telegram-%230d1117?style=for-the-badge&logo=telegram&logoColor=#E4405F"/></a>
+<a href="https://open.spotify.com/artist/4cdJMNyV0fp9j3RjKosbFd"><img src="https://img.shields.io/badge/Spotify-%230d1117?style=for-the-badge&logo=spotify&logoColor=#1ED760"/></a>
+<a href="https://twitter.com/GM_Bermeo"><img src="https://img.shields.io/badge/@GM__Bermeo-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
+<a href="https://www.youtube.com/channel/UCSsc5f356wsiB8OlNcya3zA"><img src="https://img.shields.io/badge/Youtube-%230d1117.svg?style=for-the-badge&logo=YouTube&logoColor=ff0000"/></a>
 </p>
-
 
 <!--
 **GMBermeo/GMBermeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
