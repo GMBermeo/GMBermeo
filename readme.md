@@ -18,15 +18,16 @@ When I am not working, I study audio design, play board games, and watch tv show
 <img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
 <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
-<img alt="Vue" src="https://img.shields.io/badge/vuejs-%230d1117.svg?style=for-the-badge&logo=vuedotjs"/>
-<img alt="Nuxt" src="https://img.shields.io/badge/nuxt-%230d1117.svg?style=for-the-badge&logo=nuxtdotjs"/>
 <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
-<img alt="Bulma" src="https://img.shields.io/badge/bulma-%230d1117?style=for-the-badge&logo=bulma"/>
+<img alt="Vue" src="https://img.shields.io/badge/vuejs-%230d1117.svg?style=for-the-badge&logo=vuedotjs"/>
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss"/>
+<img alt="Vite" src="https://img.shields.io/badge/vite-%230d1117.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF"/>
+<img alt="Next" src="https://img.shields.io/badge/Next-%230d1117?style=for-the-badge&logo=next.js"/>
+<img alt="Nuxt" src="https://img.shields.io/badge/nuxt-%230d1117.svg?style=for-the-badge&logo=nuxtdotjs"/>
 <img alt="Bootstrap CSS" src="https://img.shields.io/badge/bootstrap-%230d1117?style=for-the-badge&logo=bootstrap"/>
+<img alt="Bulma" src="https://img.shields.io/badge/bulma-%230d1117?style=for-the-badge&logo=bulma"/>
 <img alt="Blazor" src="https://img.shields.io/badge/blazor-%230d1117.svg?style=for-the-badge&logo=blazor&logoColor=5b2d8f"/>
 <img alt="C#" src="https://img.shields.io/badge/C%23-%230d1117?style=for-the-badge&logo=c-sharp"/> 
-<img alt="Next" src="https://img.shields.io/badge/Next-%230d1117?style=for-the-badge&logo=next.js"/>
 <img alt="Unity" src="https://img.shields.io/badge/unity-%230d1117.svg?style=for-the-badge&logo=unity"/>
 <img alt="Vercel" src="https://img.shields.io/badge/vercel-%230d1117.svg?style=for-the-badge&logo=vercel"/>
 </p>
