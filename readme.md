@@ -41,3 +41,5 @@ When I am not working, I study audio design, play board games, and watch tv show
 <a href="https://twitter.com/GM_Bermeo"><img src="https://img.shields.io/badge/@GM__Bermeo-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
 <a href="https://www.youtube.com/channel/UCSsc5f356wsiB8OlNcya3zA"><img src="https://img.shields.io/badge/Youtube-%230d1117.svg?style=for-the-badge&logo=YouTube&logoColor=ff0000"/></a>
 </p>
+
+[![@bermeo's Holopin board](https://holopin.me/bermeo)](https://holopin.io/@bermeo)
