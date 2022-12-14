@@ -16,6 +16,7 @@ When I am not working, I study audio design, play board games, and watch tv show
 <p align="justify"><a href="https://bermeo.dev">
  <img alt="Next" src="https://img.shields.io/badge/Next-%230d1117?style=for-the-badge&logo=next.js"/>
  <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
+ <img alt="SASS" src="https://img.shields.io/badge/sass-%230d1117.svg?style=for-the-badge&logo=sass"/>
  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss"/>
  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
