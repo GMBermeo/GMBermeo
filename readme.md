@@ -14,15 +14,16 @@ When I am not working, I study audio design, play board games, and watch tv show
 
 ## techs && skills
 <p align="justify"><a href="https://bermeo.dev">
- <img alt="Next" src="https://img.shields.io/badge/Next-%230d1117?style=for-the-badge&logo=next.js"/>
- <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
- <img alt="SASS" src="https://img.shields.io/badge/sass-%230d1117.svg?style=for-the-badge&logo=sass"/>
- <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss"/>
  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
+ <img alt="Next.js" src="https://img.shields.io/badge/Next-%230d1117?style=for-the-badge&logo=next.js"/>
+ <img alt="React.js" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
+ <img alt="SASS" src="https://img.shields.io/badge/sass-%230d1117.svg?style=for-the-badge&logo=sass"/>
+ <img alt="Material UI" src="https://img.shields.io/badge/mui-%230d1117.svg?style=for-the-badge&logo=mui"/>
+ <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss"/>
  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
  <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
  <img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
- <img alt="Vue" src="https://img.shields.io/badge/vuejs-%230d1117.svg?style=for-the-badge&logo=vuedotjs"/>
+ <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%230d1117.svg?style=for-the-badge&logo=vuedotjs"/>
  <img alt="Vite" src="https://img.shields.io/badge/vite-%230d1117.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF"/>
  <img alt="Nuxt" src="https://img.shields.io/badge/nuxt-%230d1117.svg?style=for-the-badge&logo=nuxtdotjs"/>
  <img alt="Bootstrap CSS" src="https://img.shields.io/badge/bootstrap-%230d1117?style=for-the-badge&logo=bootstrap"/>
