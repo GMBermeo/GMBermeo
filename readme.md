@@ -1,18 +1,18 @@
 <p align="left">
 <a href="https://bermeo.dev">
 <img width="56%" src="https://github-readme-stats.vercel.app/api?username=GMBermeo&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=gmbermeo&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
- <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GMBermeo&count_private=true&include_all_commits=true&hide=c%23&langs_count=6&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GMBermeo&count_private=true&include_all_commits=true&hide=c%23&langs_count=6&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
 <img width="56%" src="https://github-readme-activity-graph.cyclic.app/graph?username=gmbermeo&bg_color=0f1116&color=7fd6f9&line=ff6d95&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/></a>
 </p>
- 
 
 ## about.me
 <p align="justify">
-I am an experienced Digital Product Designer with several years of experience working with governmental clients to create and enhance the aesthetics and experience for digital products. Adept in designing, managing, and planning the production of projects, ranging from small to very large-scale. An easy learner with a natural ability to collaborate and lead as a dynamic and dedicated professional.
-When I am not working, I study audio design, play board games, and watch tv shows.
+A versatile and detail-oriented professional, I bring passion and expertise in front-end development and user experience to fast-paced environments. With a background in Systems Analysis and Development, Graphic Design, Music, and experience in various industries, I excel in cross-functional collaboration and adaptability. Skilled in JavaScript frameworks, high-fidelity prototyping, and cutting-edge technologies like React, TypeScript, Tailwind CSS, and Next. Committed to continuous improvement and exploring new tech, I blend creativity with problem-solving skills to deliver exceptional results. Outside work, I enjoy board games and movies.
 </p>
 
- 
+## curriculum vitae
+- [Markdown](https://www.bermeo.dev/cv/GuilhermeBermeo-en.md)
+- [PDF](https://www.bermeo.dev/cv/GuilhermeBermeo-en.pdf)
 
 ## techs && skills
 <p align="justify"><a href="https://bermeo.dev">
@@ -38,12 +38,12 @@ When I am not working, I study audio design, play board games, and watch tv show
  
 ## social && contact
 <p align="justify">
-<a href="https://www.linkedin.com/in/gmbermeo"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
-<a href="https://www.instagram.com/guilherme.bermeo"><img src="https://img.shields.io/badge/guilherme.bermeo-%230d1117.svg?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/></a>
-<a href="https://t.me/guilhermebermeo"><img src="https://img.shields.io/badge/Telegram-%230d1117?style=for-the-badge&logo=telegram&logoColor=#E4405F"/></a>
-<a href="https://open.spotify.com/artist/4cdJMNyV0fp9j3RjKosbFd"><img src="https://img.shields.io/badge/Spotify-%230d1117?style=for-the-badge&logo=spotify&logoColor=#1ED760"/></a>
-<a href="https://twitter.com/GM_Bermeo"><img src="https://img.shields.io/badge/@GM__Bermeo-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
-<a href="https://www.youtube.com/channel/UCSsc5f356wsiB8OlNcya3zA"><img src="https://img.shields.io/badge/Youtube-%230d1117.svg?style=for-the-badge&logo=YouTube&logoColor=ff0000"/></a>
+ <a href="https://www.linkedin.com/in/gmbermeo"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
+ <a href="https://www.instagram.com/guilherme.bermeo"><img src="https://img.shields.io/badge/guilherme.bermeo-%230d1117.svg?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/></a>
+ <a href="https://t.me/guilhermebermeo"><img src="https://img.shields.io/badge/Telegram-%230d1117?style=for-the-badge&logo=telegram&logoColor=#E4405F"/></a>
+ <a href="https://open.spotify.com/artist/4cdJMNyV0fp9j3RjKosbFd"><img src="https://img.shields.io/badge/Spotify-%230d1117?style=for-the-badge&logo=spotify&logoColor=#1ED760"/></a>
+ <a href="https://twitter.com/GM_Bermeo"><img src="https://img.shields.io/badge/@GM__Bermeo-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
+ <a href="https://www.youtube.com/channel/UCSsc5f356wsiB8OlNcya3zA"><img src="https://img.shields.io/badge/Youtube-%230d1117.svg?style=for-the-badge&logo=YouTube&logoColor=ff0000"/></a>
 </p>
 
 [![@bermeo's Holopin board](https://holopin.me/bermeo)](https://holopin.io/@bermeo)
