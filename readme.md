@@ -110,7 +110,7 @@ A versatile and detail-oriented professional, I bring passion and expertise in f
 
 #### **Technical environment**
 
-![Javascript](https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript) ![Figma](https://img.shields.io/badge/figma-%230d1117.svg?style=for-the-badge&logo=figma) ![AdobeXD](https://img.shields.io/badge/adobeXD-%230d1117.svg?style=for-the-badge&logo=adobeXD) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%230d1117.svg?style=for-the-badge&logo=adobeillustrator) ![Adobe InDesign](https://img.shields.io/badge/adobeindesign-%230d1117.svg?style=for-the-badge&logo=adobeindesign) ![Microsoft PowerApps](https://img.shields.io/badge/powerapps-%230d1117.svg?style=for-the-badge&logo=powerapps) ![HTML](https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6) ![PHP](https://img.shields.io/badge/php-%230d1117.svg?style=for-the-badge&logo=php) ![Apache](https://img.shields.io/badge/apache-%230d1117.svg?style=for-the-badge&logo=apache) ![Azure DevOps](https://img.shields.io/badge/azuredevops-%230d1117.svg?style=for-the-badge&logo=azuredevops) ![Git](https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git) ![Bootstrap CSS](https://img.shields.io/badge/bootstrap-%230d1117?style=for-the-badge&logo=bootstrap) ![Microsoft SQL Server](https://img.shields.io/badge/sqlserver-%230d1117.svg?style=for-the-badge&logo=microsoftsqlserver)
+![Javascript](https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript) ![Figma](https://img.shields.io/badge/figma-%230d1117.svg?style=for-the-badge&logo=figma) ![AdobeXD](https://img.shields.io/badge/adobeXD-%230d1117.svg?style=for-the-badge&logo=adobeXD) ![Adobe Illustrator](https://img.shields.io/badge/illustrator-%230d1117.svg?style=for-the-badge&logo=adobeillustrator) ![Adobe InDesign](https://img.shields.io/badge/indesign-%230d1117.svg?style=for-the-badge&logo=adobeindesign) ![Microsoft PowerApps](https://img.shields.io/badge/powerapps-%230d1117.svg?style=for-the-badge&logo=powerapps) ![HTML](https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6) ![PHP](https://img.shields.io/badge/php-%230d1117.svg?style=for-the-badge&logo=php) ![Apache](https://img.shields.io/badge/apache-%230d1117.svg?style=for-the-badge&logo=apache) ![Azure DevOps](https://img.shields.io/badge/azuredevops-%230d1117.svg?style=for-the-badge&logo=azuredevops) ![Git](https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git) ![Bootstrap CSS](https://img.shields.io/badge/bootstrap-%230d1117?style=for-the-badge&logo=bootstrap) ![Microsoft SQL Server](https://img.shields.io/badge/sqlserver-%230d1117.svg?style=for-the-badge&logo=microsoftsqlserver)
 
 ### **OPERATIONS ANALYST, UX DESIGNER** at [BBTS (Bank of Brazil Technology Branch)](https://bbts.com.br)
 
@@ -125,7 +125,7 @@ A versatile and detail-oriented professional, I bring passion and expertise in f
 
 #### **Technical environment**
 
-![Javascript](https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript) ![Figma](https://img.shields.io/badge/figma-%230d1117.svg?style=for-the-badge&logo=figma) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%230d1117.svg?style=for-the-badge&logo=adobeillustrator) ![HTML](https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5) ![SASS](https://img.shields.io/badge/sass-%230d1117.svg?style=for-the-badge&logo=sass)  ![CSS](https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6) ![Bootstrap CSS](https://img.shields.io/badge/bootstrap-%230d1117?style=for-the-badge&logo=bootstrap) ![PHP](https://img.shields.io/badge/php-%230d1117.svg?style=for-the-badge&logo=php)
+![Javascript](https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript) ![Figma](https://img.shields.io/badge/figma-%230d1117.svg?style=for-the-badge&logo=figma) ![Adobe Illustrator](https://img.shields.io/badge/illustrator-%230d1117.svg?style=for-the-badge&logo=adobeillustrator) ![HTML](https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5) ![SASS](https://img.shields.io/badge/sass-%230d1117.svg?style=for-the-badge&logo=sass)  ![CSS](https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6) ![Bootstrap CSS](https://img.shields.io/badge/bootstrap-%230d1117?style=for-the-badge&logo=bootstrap) ![PHP](https://img.shields.io/badge/php-%230d1117.svg?style=for-the-badge&logo=php)
 
 ### **GRAPHIC DESIGNER**, Self-employed at [Redbubble](https://redbubble.com)
 
@@ -139,7 +139,7 @@ A versatile and detail-oriented professional, I bring passion and expertise in f
 
 #### **Technical environment**
 
-![Gimp](https://img.shields.io/badge/gimp-%230d1117.svg?style=for-the-badge&logo=gimp) ![Adobe Lightroom](https://img.shields.io/badge/adobelightroom-%230d1117.svg?style=for-the-badge&logo=adobelightroom) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%230d1117.svg?style=for-the-badge&logo=adobeillustrator) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%230d1117.svg?style=for-the-badge&logo=adobephotoshop)  ![Inkscape](https://img.shields.io/badge/inkscape-%230d1117.svg?style=for-the-badge&logo=inkscape)  ![Corel Draw](https://img.shields.io/badge/coreldraw-%230d1117.svg?style=for-the-badge&logo=coreldraw)
+![Gimp](https://img.shields.io/badge/gimp-%230d1117.svg?style=for-the-badge&logo=gimp) ![Adobe Lightroom](https://img.shields.io/badge/lightroom-%230d1117.svg?style=for-the-badge&logo=adobelightroom) ![Adobe Illustrator](https://img.shields.io/badge/illustrator-%230d1117.svg?style=for-the-badge&logo=adobeillustrator) ![Adobe Photoshop](https://img.shields.io/badge/photoshop-%230d1117.svg?style=for-the-badge&logo=adobephotoshop)  ![Inkscape](https://img.shields.io/badge/inkscape-%230d1117.svg?style=for-the-badge&logo=inkscape)  ![Corel Draw](https://img.shields.io/badge/coreldraw-%230d1117.svg?style=for-the-badge&logo=coreldraw)
 
 ### **ADMINISTRATIVE ASSISTANT (ACCOUNTING CLERK)** at [CAER (Roraima’s Water and Sewage Company)](https://www.caer.com.br)
 
@@ -150,7 +150,7 @@ A versatile and detail-oriented professional, I bring passion and expertise in f
 
 #### **Technical environment**
 
-![Microsoft Excel](https://img.shields.io/badge/microsoftexcel-%230d1117.svg?style=for-the-badge&logo=microsoftexcel) ![TOTVS](https://img.shields.io/badge/TOTVS-%230d1117.svg?style=for-the-badge&logo=TOTVS) ![MySQL](https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql)
+![Microsoft Excel](https://img.shields.io/badge/excel-%230d1117.svg?style=for-the-badge&logo=microsoftexcel) ![TOTVS](https://img.shields.io/badge/TOTVS-%230d1117.svg?style=for-the-badge&logo=TOTVS) ![MySQL](https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql)
 
 ## contributions
 
