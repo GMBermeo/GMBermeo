@@ -14,8 +14,8 @@ A versatile and detail-oriented professional, I bring passion and expertise in f
 
 # resume
 
-- [Download in Markdown](https://www.bermeo.dev/cv/GuilhermeBermeo-en.md)
-- [Download in PDF](https://www.bermeo.dev/cv/GuilhermeBermeo-en.pdf)
+- [Download in Markdown](https://www.bermeo.dev/resume/GuilhermeBermeo-en.md)
+- [Download in PDF](https://www.bermeo.dev/resume/GuilhermeBermeo-en.pdf)
 
 ## work experience
 
